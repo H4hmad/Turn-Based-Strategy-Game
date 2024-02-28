@@ -21,3 +21,10 @@ This game is a grid-based strategy game featuring teams of characters, including
 
   
 These learning outcomes cover a wide range of skills including version control, Java development, graphical user interface design, object-oriented design principles, exception handling, and integration of external libraries.
+
+
+## Snapshots
+
+![image](https://github.com/H4hmad/Turn-Based-Strategy-Game/assets/140472428/27cdac45-a912-441c-ab1f-cbf8b489a119)
+![image](https://github.com/H4hmad/Turn-Based-Strategy-Game/assets/140472428/19edd1fc-e031-4d92-9626-79b881b5bddb)
+
